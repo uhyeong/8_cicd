@@ -1,0 +1,4 @@
+django
+djangorestframework
+# WSGI server for production
+gunicorn
